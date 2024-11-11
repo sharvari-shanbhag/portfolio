@@ -1,7 +1,7 @@
 const INFO = {
 	main: {
 		title: "Reactfolio by Sharvari",
-		name: "Sharvari Shanbhag",
+		name: "Sharvari_Shanbhag",
 		email: "shanbhagsharvari27@gmail.com",
 		logo: "../logo.jpg",
 	},
@@ -70,7 +70,7 @@ const INFO = {
 			link: "https://github.com",
 		},
 
-		
+
 	],
 };
 
