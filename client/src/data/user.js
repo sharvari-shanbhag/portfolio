@@ -1,9 +1,9 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "patilvedantraj@gmail.com",
-		logo: "../logo.png",
+		title: "Reactfolio by Sharvari",
+		name: "Sharvari Shanbhag",
+		email: "shanbhagsharvari27@gmail.com",
+		logo: "../logo.jpg",
 	},
 
 	socials: {
@@ -16,68 +16,61 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and cloud computing.",
+		title: "Full-stack web developer skilled in creating responsive, scalable, and user-focused web applications with efficient front-end and back-end solutions",
 		description:
-			"I am a fullstack developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"As a full-stack developer with a strong focus on Node.js, I bring experience in building reliable, scalable, and secure web applications across multiple frameworks and tech stacks. I’m dedicated to producing clean, maintainable code that aligns with industry best practices. Solving intricate problems and learning new tools energizes me, and I’m always on the lookout for opportunities to elevate my skills and grow within the field.",
 	},
 
 	about: {
-		title: "I’m Vedantraj Patil I live in india, where I design the future.",
+		title: "I'm Sharvari S. Shanbhag from India, shaping the future through my designs.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I've developed a range of open-source projects over the years, and I'm excited to share them for others to explore, contribute, and suggest improvements—collaboration and fresh ideas are always welcome!",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "I'm driven to explore new possibilities and inspire future innovators to reach beyond the ordinary.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"A chronological collection of my in-depth reflections on programming, leadership, product design, and beyond.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Whatsapp Chat Analyzer",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"WhatsApp Chat Analyzer is a Python-based tool designed to extract valuable insights from WhatsApp chat data. Using libraries like Matplotlib, Pandas, and Seaborn, it generates statistical reports and visualizations. The tool helps users analyze conversation patterns, message frequency, and engagement trends.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 2",
+			title: "Hotel Management System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"The Hotel Management System is a comprehensive software solution designed to streamline hotel operations. It includes features for managing reservations, check-ins, check-outs, billing, and room availability. The system enhances efficiency, improves customer service, and automates administrative tasks for smooth hotel management.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 3",
+			title: "E-Commerce Website",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"An e-commerce website project that features a user-friendly interface, allowing customers to browse, select, and purchase products seamlessly. It includes secure payment integration, responsive design, and an intuitive shopping experience across devices. The backend ensures smooth order management, inventory tracking, and user authentication.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 4",
+			title: "Spotify Clone",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A Spotify clone project that replicates the core features of the popular music streaming platform, including user authentication, playlist creation, and music playback. Built using modern web technologies, this project integrates a sleek user interface with backend functionalities to provide a seamless music experience. The app also allows users to search for songs, albums, and artists, closely mimicking the original Spotify experience.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		
 	],
 };
 
